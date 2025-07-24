@@ -151,7 +151,7 @@ body{
     background-image: url('images/bg-pattern-quotation.svg');
     background-repeat: no-repeat;
     background-position: top right 5.5rem;
-    background-size: 110px; /* Adjust size as needed */
+    background-size: 110px;
 }
   #jonathan  { grid-area: jonathan; }
   #jeanette  { grid-area: jeanette; }
